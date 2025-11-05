@@ -1,0 +1,3 @@
+
+## 0.1.Drawing - Emoji Expression
+This sketch recreates an emoji-inspired digital face using simple geometric forms; elllipses, rectangles, and verticles - coded through p5.js. The image combines minimal design with emotional storytelling, showing a calm and heartbroken expression through the heart; proportion color and shape. This piece directly explores how emotion can be expressed through coded geometry.
